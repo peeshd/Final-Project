@@ -5,11 +5,6 @@ This project is a simple game where you make your character jump or stand still 
 1. A scoreboard
 2. A Jumping Mechanic
 3. Home Screen
-### Installation 
-Use the package manager pip to install pygame
-```bash
-pip3 install pygame
-```
 
 
 
